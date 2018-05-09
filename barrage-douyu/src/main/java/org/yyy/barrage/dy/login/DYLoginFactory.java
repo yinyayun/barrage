@@ -7,6 +7,6 @@ package org.yyy.barrage.dy.login;
  * @author yyy
  *
  */
-public class DYLogin {
-
+public class DYLoginFactory {
+	
 }
